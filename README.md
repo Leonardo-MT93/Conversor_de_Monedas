@@ -1,4 +1,4 @@
-<h1 align="center"> Challengue 05 - Sprint 01 - ORACLE ONE  </h1>
+<h1 align="center"> Challengue 05 - Conversor de Monedas - ORACLE ONE (Sprint01)</h1>
 
 Conversor de unidades realizado mediante JAVA. Realice distintos tipos de conversion mediante esta aplicación.
 <h2 align="center">Comenzando	:rocket:</h2>
